@@ -1,0 +1,2 @@
+# PWC-Virtual-Internship---Telecom-Industry-Analytics
+This repo consist of End-to-End Data Analytics on Telecom Industry. This repo has 3 Projects, a) Customer Call Trends Analytics, b) Customer Churn &amp; Retention Analytics, c) HR Analytics (Diversion &amp; Inclusion). Each of the Project folders has SQL Queries, Power Bi Dashboard File,  Dataset in Excel Raw, Dataset in CSV Exported, File for Query &amp; DAX
